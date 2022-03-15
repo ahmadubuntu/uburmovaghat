@@ -49,7 +49,7 @@ function set_dns () {
 				break
                 ;;
 			q|Q)
-				echo "OK, but why you called me?!"
+				echo "OK, but why did you call me?!"
 				echo "Nice to meet you, $USER" 
 				break
 				;;
